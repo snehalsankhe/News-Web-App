@@ -22,7 +22,7 @@ Features:
 =======
 * We will add a search bar so a user can search for topics.
 * We will add social media icons for sharing news
-* If the news contain video then it will open in modal.
+* If the news contains video then it will open in modal.
 
 # Referred Resources
 * React
